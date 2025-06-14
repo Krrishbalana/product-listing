@@ -5,10 +5,7 @@ It fetches product data from a public API and allows users to search, view, and 
 
 ---
 
-## 🚀 Live Demo
 
-[🔗 View Live on Vercel](#)  
-*(Optional – replace with your deployed link if hosted on Vercel/Netlify)*
 
 ---
 
