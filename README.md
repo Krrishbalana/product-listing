@@ -6,9 +6,7 @@ It fetches product data from a public API and allows users to search, view, and 
 ---
 ## 🚀 Live Demo
 
-[🔗 https://product-listing-lyart-eight.vercel.app/](#)  
-*(Optional – replace with your deployed link if hosted on Vercel/Netlify)*
-
+🔗Link : https://product-listing-lyart-eight.vercel.app/ 
 
 ---
 
