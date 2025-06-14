@@ -15,7 +15,6 @@ It fetches product data from a public API and allows users to search, view, and 
 - ✅ Next.js (SSR with `getServerSideProps`)
 - ✅ Bootstrap 5
 - ✅ Fetch API
-- ❌ No TypeScript (intentionally excluded as per instruction)
 
 ---
 
