@@ -40,3 +40,20 @@ a {
     color-scheme: dark;
   }
 }
+
+body {
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.card-title {
+  font-size: 1rem;
+}
+
+.product-img-wrapper {
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
