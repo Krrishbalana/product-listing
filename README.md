@@ -44,3 +44,11 @@ Data is fetched from:
 ```bash
 git clone https://github.com/krishbalana/product-listing.git
 cd product-listing
+
+
+npm install
+
+npm run dev
+
+
+
