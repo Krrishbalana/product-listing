@@ -4,7 +4,10 @@ This is a responsive product listing page built using **React.js**, **Next.js (w
 It fetches product data from a public API and allows users to search, view, and filter products easily.
 
 ---
+## 🚀 Live Demo
 
+[🔗 https://product-listing-lyart-eight.vercel.app/](#)  
+*(Optional – replace with your deployed link if hosted on Vercel/Netlify)*
 
 
 ---
